@@ -1,0 +1,14 @@
+C:\Users\SHL_User\Desktop\advanced\AdvancedProgrammingTechniquesLab2\bin\Debug\net10.0\AdvancedProgrammingTechniquesLab2.exe
+C:\Users\SHL_User\Desktop\advanced\AdvancedProgrammingTechniquesLab2\bin\Debug\net10.0\AdvancedProgrammingTechniquesLab2.deps.json
+C:\Users\SHL_User\Desktop\advanced\AdvancedProgrammingTechniquesLab2\bin\Debug\net10.0\AdvancedProgrammingTechniquesLab2.runtimeconfig.json
+C:\Users\SHL_User\Desktop\advanced\AdvancedProgrammingTechniquesLab2\bin\Debug\net10.0\AdvancedProgrammingTechniquesLab2.dll
+C:\Users\SHL_User\Desktop\advanced\AdvancedProgrammingTechniquesLab2\bin\Debug\net10.0\AdvancedProgrammingTechniquesLab2.pdb
+C:\Users\SHL_User\Desktop\advanced\AdvancedProgrammingTechniquesLab2\obj\Debug\net10.0\AdvancedProgrammingTechniquesLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHL_User\Desktop\advanced\AdvancedProgrammingTechniquesLab2\obj\Debug\net10.0\AdvancedProgrammingTechniquesLab2.AssemblyInfoInputs.cache
+C:\Users\SHL_User\Desktop\advanced\AdvancedProgrammingTechniquesLab2\obj\Debug\net10.0\AdvancedProgrammingTechniquesLab2.AssemblyInfo.cs
+C:\Users\SHL_User\Desktop\advanced\AdvancedProgrammingTechniquesLab2\obj\Debug\net10.0\AdvancedProgrammingTechniquesLab2.csproj.CoreCompileInputs.cache
+C:\Users\SHL_User\Desktop\advanced\AdvancedProgrammingTechniquesLab2\obj\Debug\net10.0\AdvancedProgrammingTechniquesLab2.dll
+C:\Users\SHL_User\Desktop\advanced\AdvancedProgrammingTechniquesLab2\obj\Debug\net10.0\refint\AdvancedProgrammingTechniquesLab2.dll
+C:\Users\SHL_User\Desktop\advanced\AdvancedProgrammingTechniquesLab2\obj\Debug\net10.0\AdvancedProgrammingTechniquesLab2.pdb
+C:\Users\SHL_User\Desktop\advanced\AdvancedProgrammingTechniquesLab2\obj\Debug\net10.0\AdvancedProgrammingTechniquesLab2.genruntimeconfig.cache
+C:\Users\SHL_User\Desktop\advanced\AdvancedProgrammingTechniquesLab2\obj\Debug\net10.0\ref\AdvancedProgrammingTechniquesLab2.dll
